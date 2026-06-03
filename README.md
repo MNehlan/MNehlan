@@ -35,12 +35,13 @@ I'm passionate about building responsive, user-friendly web applications with mo
 
 ### Statistics
 
-📊 **Check out my GitHub profile for more details:**
-- ⭐ Repositories and projects
-- 📈 Contribution activity
-- 🎯 GitHub statistics
+<a href="https://github.com/MNehlan">
+  <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=MNehlan&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />
+</a>
 
-[**Visit My GitHub Profile →**](https://github.com/MNehlan)
+<a href="https://github.com/MNehlan">
+  <img height="180em" src="https://github-readme-stats-git-main-anuragffds-projects.vercel.app/api/top-langs/?username=MNehlan&layout=compact&bg_color=22272e&text_color=fff&title_color=37BCF6" />
+</a>
 
 ### Connect With Me
 
