@@ -35,9 +35,12 @@ I'm passionate about building responsive, user-friendly web applications with mo
 
 ### Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MNehlan&theme=dark)](https://github.com/MNehlan)
+📊 **Check out my GitHub profile for more details:**
+- ⭐ Repositories and projects
+- 📈 Contribution activity
+- 🎯 GitHub statistics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MNehlan&layout=compact&theme=dark)](https://github.com/MNehlan)
+[**Visit My GitHub Profile →**](https://github.com/MNehlan)
 
 ### Connect With Me
 
