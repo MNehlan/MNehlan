@@ -28,14 +28,14 @@ I'm passionate about building responsive, user-friendly web applications with mo
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **E-Commerce App** | A full-stack e-commerce platform with product catalog, shopping cart, and checkout functionality | [ShopZone](https://shop-zone-ecom.vercel.app/) • [Repository](https://github.com/MNehlan/e-commerce-app) |
+| **E-Commerce App** | A full-stack e-commerce platform with product catalog, shopping cart, and checkout functionality | [ShopZone](https://shop-zone-ecom.vercel.app/) • [Repository](https://github.com/MNehlan/shop-zone) |
 | **Blog App** | A modern blogging platform with post creation, editing, and responsive design | [Voxly Blog](https://voxly-blog.vercel.app/) • [Repository](https://github.com/MNehlan/blog-app) |
 | **ParkX** | Smart parking management system with real-time availability tracking | [Repository](https://github.com/MNehlan/ParkX) |
 | **HomeFixApp** | Service booking application for home maintenance and repairs | [Repository](https://github.com/MNehlan/HomeFixApp) |
 
 ### Statistics
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MNehlan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MNehlan&theme=dark)](https://github.com/MNehlan)
 
 ### Connect With Me
 
