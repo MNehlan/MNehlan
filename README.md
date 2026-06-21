@@ -32,6 +32,7 @@ I'm passionate about building responsive, user-friendly web applications with mo
 | **Blog App** | A modern blogging platform with post creation, editing, and responsive design | [Voxly Blog](https://voxly-blog.vercel.app/) • [Repository](https://github.com/MNehlan/blog-app) |
 | **ParkX** | Smart parking management system with real-time availability tracking | [Repository](https://github.com/MNehlan/ParkX) |
 | **HomeFixApp** | Service booking application for home maintenance and repairs | [Repository](https://github.com/MNehlan/HomeFixApp) |
+| **Qr Code Generator** | Generate, copy, and download QR codes from text or URLs. | [Instant Qr Generator](https://instant-qr-generator.vercel.app/) • [Repository](https://github.com/MNehlan/qr-code-generator.git) |
 
 ### Statistics
 
